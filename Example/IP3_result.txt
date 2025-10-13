@@ -1,0 +1,9 @@
+Result of example 3:
+Optimal solution found:
+z = 74.99999999999999
+x1 = 0.0
+x2 = -0.0
+x3 = 25.0
+y1 = 0.0
+y2 = -0.0
+y3 = 1.0
